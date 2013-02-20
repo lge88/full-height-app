@@ -1,0 +1,17 @@
+{
+  "name": "full-height-app",
+  "repo": "lge88/full-height-app",
+  "description": "Full height app template",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "scripts": [
+    "index.js",
+    "template.js"
+  ],
+  "styles": [
+    "full-height-app.css"
+  ]
+}
