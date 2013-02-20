@@ -17,4 +17,7 @@ components: component.json
 clean:
 	rm -fr build components template.js template.html full-height-app.css
 
+test: build
+	@google-chrome --app=file://`pwd`/test.html
+
 .PHONY: clean
